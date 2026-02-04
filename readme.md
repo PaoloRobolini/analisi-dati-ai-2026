@@ -4,6 +4,10 @@
 
 **Obiettivo**: Analizzare dataset con python presi da [KaggleHub](https://www.kaggle.com/)
 
+[Dataset dei Pokémon](https://www.kaggle.com/datasets/ceebloop/pokmon-dataset-2024)
+
+[Colab](https://colab.research.google.com/drive/1Nr5tEO1vMzGxwVrKRAfnSsCDkXQsPP4g#scrollTo=QMr9GSqtVend)
+
 ```bash
 ls -l
 find pippo
